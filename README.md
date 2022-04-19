@@ -1,6 +1,6 @@
 
 
-# Pre-requrement:
+# Pre-requirements:
 1. Java 1.8
 2. Eclipse with TestNG plugin
 
